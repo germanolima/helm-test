@@ -213,7 +213,7 @@ entries:
           url: https://airflow.apache.org/docs/apache-airflow/2.4.1/_images/context.png
     apiVersion: v2
     appVersion: 2.4.1
-    created: "2023-01-02T17:33:03.943473087-03:00"
+    created: "2023-01-02T17:38:51.623268373-03:00"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -237,6 +237,6 @@ entries:
     - https://github.com/apache/airflow
     type: application
     urls:
-    - https://github.com/germanolima/helm-test/airflow-1.7.0.tgz
+    - https://github.com/germanolima/helm-test/blob/main/airflow-1.7.0.tgz
     version: 1.7.0
-generated: "2023-01-02T17:33:03.93637579-03:00"
+generated: "2023-01-02T17:38:51.61574679-03:00"
